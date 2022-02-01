@@ -3,4 +3,4 @@
 
 블로그 주소
 - [리포지터리 홈 주소, github.com/sungwonje/redesign-project_musinsa](https://github.com/sungwonje/redesign-project_musinsa)
-- [깃허브 페이지 주소, sungwonje.github.io](https://sungwonje.github.io)
+- [깃허브 페이지 주소, sungwonje.github.io/redesign-project_musinsa](https://sungwonje.github.io/redesign-project_musinsa)
