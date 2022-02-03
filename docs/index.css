@@ -73,16 +73,6 @@ html>body {
 }
 
 /* Overview */
-#overview-02 {
-  position: relative;
-}
-
-#overview-02>.mockup {
-  top: -1100px;
-  left: 100px;
-  z-index: 100;
-}
-
 #overview--persona {
   position: relative;
 }
@@ -90,20 +80,32 @@ html>body {
 #persona01 {
   position: absolute;
   top: 7%;
-  left: 5%;
+  left: 15%;
 }
 
 #persona02 {
   position: absolute;
   top: 35%;
-  left: 5%;
+  left: 15%;
 }
 
 #persona03 {
   position: absolute;
   top: 63%;
-  left: 5%;
+  left: 15%;
 }
+
+#overview-02 {
+  position: relative;
+}
+
+#overview-02>.mockup {
+  top: -1500px;
+  left: 100px;
+  z-index: 100;
+}
+
+
 
 /* Design System */
 #design-system {
@@ -116,7 +118,7 @@ html>body {
 }
 
 #customizing-page-01>.mockup {
-  top: -800px;
+  top: -1200px;
   left: 800px;
   z-index: 100;
 }
@@ -127,7 +129,7 @@ html>body {
 
 #customizing-page-02--welcome {
   position: absolute;
-  bottom: 3%;
+  bottom: 10%;
   left: 40%;
 }
 
@@ -138,7 +140,7 @@ html>body {
 }
 
 #main-page-01>.mockup {
-  top: -140px;
+  top: -50px;
   left: 100px;
   z-index: 100;
 }
@@ -159,7 +161,7 @@ html>body {
 }
 
 #menu-01>.mockup {
-  top: -800px;
+  top: -1100px;
   left: 100px;
 }
 
@@ -170,7 +172,7 @@ html>body {
 
 #sub-page-01>.mockup {
   top: -700px;
-  left: 950px;
+  left: 1250px;
   z-index: 100;
 }
 
@@ -198,19 +200,19 @@ html>body {
 
 #sub-page-02--04 {
   position: absolute;
-  bottom: 10%;
+  bottom: 25%;
   right: 60%;
 }
 
 #sub-page-02--05 {
   position: absolute;
-  bottom: 5%;
+  bottom: 20%;
   right: 30%;
   z-index: 100;
 }
 
 #sub-page-02--06 {
   position: absolute;
-  bottom: 5%;
+  bottom: 20%;
   right: 8%;
 }
